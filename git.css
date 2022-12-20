@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 4px solid blueviolet;
+    padding: 15px;
+}
+
+tr:nth-child(even) {
+    background: rgb(179, 213, 247)}
+
+.gras > th{
+    text-decoration: underline;
+    color: rgb(121, 17, 98);
+    font-family: comic sans ms;
+    font-size: x-large;
+}
+
+.tableau{
+    display: flex;
+    justify-content: center;    
+}
